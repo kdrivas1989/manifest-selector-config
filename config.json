@@ -1,0 +1,27 @@
+{
+  "dropzones": [
+    { "id": 417, "name": "Jumptown", "latitude": 42.5700, "longitude": -72.2885, "metar": "KORE", "timezone": "America/New_York" },
+    { "id": 4661, "name": "Skydive Danielson", "latitude": 41.8198, "longitude": -71.9010, "metar": "KLZD", "timezone": "America/New_York" },
+    { "id": 561, "name": "Skydive Cross Keys", "latitude": 39.7055, "longitude": -75.0330, "metar": "K17N", "timezone": "America/New_York" },
+    { "id": 189, "name": "Skydive Elsinore", "latitude": 33.6308, "longitude": -117.2961, "metar": "KRIV", "timezone": "America/Los_Angeles" },
+    { "id": 125, "name": "Skydive Paraclete XP", "latitude": 35.0199, "longitude": -79.1910, "metar": "K5W4", "timezone": "America/New_York" },
+    { "id": 2921, "name": "Skydive New England", "latitude": 43.3751, "longitude": -70.9292, "metar": "KLEB", "timezone": "America/New_York" },
+    { "id": 53, "name": "Skydive City Zephyrhills", "latitude": 28.2267, "longitude": -82.1556, "metar": "KZPH", "timezone": "America/New_York" },
+    { "id": 27, "name": "Skydive Chicago", "latitude": 41.3998, "longitude": -88.7939, "metar": "K8N2", "timezone": "America/Chicago" },
+    { "id": 99, "name": "Skydive Perris", "latitude": 33.7588, "longitude": -117.2181, "metar": "KRIV", "timezone": "America/Los_Angeles" },
+    { "id": 396, "name": "Skydive Sebastian", "latitude": 27.8133, "longitude": -80.4956, "metar": "KX26", "timezone": "America/New_York" },
+    { "id": 392, "name": "Adelaide Tandem Skydiving", "latitude": -34.6167, "longitude": 138.5167, "metar": "YPAD", "timezone": "Australia/Adelaide" },
+    { "id": 7131, "name": "Skydive Abu Dhabi", "latitude": 24.4539, "longitude": 54.3773, "metar": "OMAA", "timezone": "Asia/Dubai" }
+  ],
+  "colors": {
+    "appBackground": "#002793",
+    "loadHeader": "#FF7900"
+  },
+  "categoryColors": {
+    "tandem": "#FFFF00",
+    "aff": "#00FF00",
+    "lowPull": "#FF66FF",
+    "sport": "#FFFFFF"
+  },
+  "refreshInterval": 10
+}
