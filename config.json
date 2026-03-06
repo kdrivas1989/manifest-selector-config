@@ -11,7 +11,8 @@
     { "id": 99, "name": "Skydive Perris", "latitude": 33.7588, "longitude": -117.2181, "metar": "KRIV", "timezone": "America/Los_Angeles" },
     { "id": 396, "name": "Skydive Sebastian", "latitude": 27.8133, "longitude": -80.4956, "metar": "KX26", "timezone": "America/New_York" },
     { "id": 392, "name": "Adelaide Tandem Skydiving", "latitude": -34.6167, "longitude": 138.5167, "metar": "YPAD", "timezone": "Australia/Adelaide" },
-    { "id": 7131, "name": "Skydive Abu Dhabi", "latitude": 24.4539, "longitude": 54.3773, "metar": "OMAA", "timezone": "Asia/Dubai" }
+    { "id": 7131, "name": "Skydive Abu Dhabi", "latitude": 24.4539, "longitude": 54.3773, "metar": "OMAA", "timezone": "Asia/Dubai" },
+    { "id": 3393, "name": "Skydive San Diego", "latitude": 32.7017, "longitude": -116.8689, "metar": "KSDM", "timezone": "America/Los_Angeles" }
   ],
   "colors": {
     "appBackground": "#002793",
